@@ -19,7 +19,12 @@ git clone <link-repositorio>
 cd <path-repositorio>
 ```
 
+## Setup
+
+1 - Baixar VSCODE
+2 - Instalar o GIT
+
 ## Minha Empresa
 
-Author: Minha Empresa
-sadsad
+Autor: Minha Empresa
+
